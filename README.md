@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Llevedias and I'm and a computing student
+- 👋 Hi, I’m @rafa_cuadrado and I'm and a computing student
 - 👀 I’m interested in web developement and security
 - 🌱 I’m currently learning computing
 - 💞️ I’m looking to collaborate on any project
